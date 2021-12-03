@@ -35,5 +35,8 @@
     "react": "*",
     "react-native": "*",
     "react-native-paper": "*"
+  },
+  "dependencies": {
+    "react-native-wakanda-blur": "^2.0.1"
   }
 }
