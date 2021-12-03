@@ -121,7 +121,7 @@ const DropDown = forwardRef((props, ref) => {
                         onPress={() => {
                             setValue(_item.value);
                             if (onDismiss) {
-                            onDismiss();
+                                onDismiss();
                             }
                         }} 
                         title={_item.custom || _item.label} 
